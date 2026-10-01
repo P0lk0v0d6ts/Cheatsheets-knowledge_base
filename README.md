@@ -1,6 +1,6 @@
 # Cheatsheets-knowledge_base
-Knowledge_base tools and methodologies
+База знаний и шпаргалки по инструментам ИБ.
 
-## Content
+## Содержимое
 
 
